@@ -31,17 +31,21 @@ Maybe gratis, but [when?](http://studentpoint.univie.ac.at/durchs-studium/termin
 
 (e.g. https://cfp.linuxwochen.at)
 
+(no idea about pricing)
+
 [Floor plan](https://cfp.linuxwochen.at/img/LWW_FH_Technikum.png)
 
 
 
 # FH Campus Wien, Favoritenstraße 226, 1100
 
+(no idea at all)
 
 
 # Austria Trend Hotel "Parkhotel Schönbrunn" (U4 Schönbrunn)
 
 (e.g. https://www.fiware.org/event/fiware-developers-week-vienna/ )
+
 ~70 EUR per person per day
 
 http://www.austria-trend.at/de/hotels/parkhotel-schonbrunn/meetings-events
@@ -51,6 +55,8 @@ http://www.austria-trend.at/de/hotels/parkhotel-schonbrunn/meetings-events
 # 25hours Hotel, Museumsquartier, 1070 (U2/3 Volkstheater)
 
 http://www.25hours-hotels.com/de/museumsquartier/tagungen/freiraeume.html
+
+(No idea about pricing)
 
 
 
